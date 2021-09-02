@@ -7,5 +7,5 @@ En la escuela 5 de mayo muchos padre de familia se quejan que, la calidad de los
 
 # Propuesta tecnica
 - Entidades: Nosoros como equipo analizamos y tendremos como objeto al alumno y al maestro.
-- Atributos: el objeto alumno tendra un atributo de matricula, materia, y un metodo para e quiz, y otro para que pueda señalar la opcion.
+- Atributos: el objeto alumno tendra un atributo de matricula, materia, y un metodo para e quiz, y otro para que pueda señalar la opcion,para el maestro el tendra un atributo nombre, grupo, materia, y uno extra que es lista de alumnos (esta sujeto a cambios).
 - Funcionalidades: el metodo quiz que sera utilizado para que el alumno pueda empezar a hacer la evaluacion.
