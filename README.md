@@ -13,3 +13,5 @@ En la escuela 5 de mayo muchos padre de familia se quejan que, la calidad de los
 - Entidades: Nosoros como equipo analizamos y tendremos como objeto al alumno, maestro y por ultimo uno llamado quiz.
 - Atributos: el objeto alumno tendra un atributo de matricula, materia y otro que se llama strikes que es cuantas veces fallan. El metodo eleccion() que es para escoger la opcion, el metodo ingresardatos() que como su nombre lo dice es para que el alumno ingrese la respuesta. El objeto Maestro va a tener como atributos nombre, grupo, materia, alumno y su puntuacion y como metodos el verificar() que es para que ranquear al profe y asi entregar una lista con los mejores profesores, y por ultimo un objeto Quiz que tendra como atributos preguntas y respuesta un metodo que se llama realizar() que este es el que iniciara las preguntas.
 - Funcionalidades: Por el momento no tine (todo esta sugeto a cambios).
+- 
+![PIA AVANCE 1 DIAGRAMA](https://user-images.githubusercontent.com/90010392/131948179-9e93a69e-2214-416c-a9ee-90d297416735.jpg)
