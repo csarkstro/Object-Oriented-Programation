@@ -33,4 +33,4 @@ A la hora de comenzar el programa nos encontramos con un menu que nos indicara s
 - set: permite el que podamos recibir o que hallamos puesto como parametros a nuetro objeto anteriormente.
 - get: permite el imprimir los parametros que hallamos pedido para crear nuestro objeto.
 
-Hola mundos
+Hola mundosa
